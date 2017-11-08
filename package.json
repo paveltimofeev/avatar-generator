@@ -35,7 +35,6 @@
     "time-grunt": "^0.3.1"
   },
   "dependencies": {
-    "commander": "^2.2.0",
     "seed-random": "^2.2.0",
     "through": "^2.3.4",
     "underscore": "^1.8.2"
